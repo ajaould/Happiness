@@ -8,4 +8,4 @@ In this analysis of the World Happiness Report, we set out to answer three quest
 
 The first thing we wanted to show on our website is our predictions as seen below: 
 
-![](HappinessReportImages/Overviewimage.png)
+![](HappinessReportImages/OverviewImage.PNG)
