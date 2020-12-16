@@ -6,3 +6,6 @@ In this analysis of the World Happiness Report, we set out to answer three quest
 
 3. Are there any other significant factors of happiness that the report failed to consider?
 
+The first thing we wanted to show on our website is our predictions as seen below: 
+
+![](HappinessReportImages/Overviewimage.png)
